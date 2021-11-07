@@ -75,8 +75,10 @@ sections:
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
+          The team at W3MBrand is always available to help me with my design
+          projects. They are professional, on time and their work is beautiful.
+          I'll recommend W3MBrand to anyone looking for an outstanding web
+          design company.
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
