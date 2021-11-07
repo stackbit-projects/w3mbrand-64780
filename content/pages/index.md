@@ -71,7 +71,7 @@ sections:
           W3MBrand. He's helped us with everything from branding, to
           copywriting, to even website design. His creative sense & expertise is
           top notch, and he's extremely easy to work with.
-      - author: Deegan Wallace
+      - author: Isaac
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
