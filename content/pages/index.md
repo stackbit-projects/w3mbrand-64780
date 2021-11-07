@@ -8,8 +8,8 @@ sections:
     content: >
       Your brand is a collaboration of your website, mobile apps, design, search
       engine optimization, and copywriting. Each piece should work together to
-      make your brand memorable. We make websites, mobile apps and create
-      marketing content, using technology to deliver memorable brand
+      make your brand memorable. We make websites, mobile apps and create design
+      and marketing content, using technology to deliver memorable brand
       experiences. You want your brand to be as memorable as the Google logo.
     actions:
       - label: Let's talk
