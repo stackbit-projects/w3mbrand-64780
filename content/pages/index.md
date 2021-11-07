@@ -56,7 +56,7 @@ sections:
     subtitle: What people say about us
     col_number: three
     testimonials:
-      - author: 'Isaac '
+      - author: Isaac Oraweme
         avatar: images/sean_salazar.jpg
         avatar_alt: Sean Salazar's photo
         content: >-
