@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: Branding that Converts.
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      We’re trying to help businesses advertise themselves. The old way was to
+      use ads and commercials and posters and billboards and flyers. The new way
+      is to use technology: websites and apps and things like that.
     actions:
       - label: Let's talk
         url: /contact
