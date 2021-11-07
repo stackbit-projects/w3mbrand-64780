@@ -6,9 +6,10 @@ sections:
     type: section_hero
     title: Branding that Converts.
     content: >
-      We’re trying to help businesses advertise themselves. The old way was to
-      use ads and commercials and posters and billboards and flyers. The new way
-      is to use technology: websites and apps and things like that.
+      Your brand is a collaboration of your website, mobile apps, design, search
+      engine optimization, and copywriting. Each piece should work together to
+      make your brand memorable. You want your brand to be as memorable as the
+      Google logo.
     actions:
       - label: Let's talk
         url: /contact
