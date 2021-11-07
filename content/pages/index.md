@@ -62,7 +62,7 @@ sections:
         content: >-
           W3MBrand has been very helpful in creating a unique brand for my
           business. They are very prompt to respond to my inquiries and provide
-          quality work. I am very happy with the results.
+          quality work. I am very happy with the results. It speaks for itself.
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
