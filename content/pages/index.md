@@ -67,8 +67,10 @@ sections:
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          We've been working with Seun and his team since the beginning of
+          W3MBrand. He's helped us with everything from branding, to
+          copywriting, to even website design. His creative sense & expertise is
+          top notch, and he's extremely easy to work with.
       - author: Deegan Wallace
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
