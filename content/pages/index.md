@@ -60,9 +60,9 @@ sections:
         avatar: images/sean_salazar.jpg
         avatar_alt: Sean Salazar's photo
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
+          W3MBrand has been very helpful in creating a unique brand for my
+          business. They are very prompt to respond to my inquiries and provide
+          quality work. I am very happy with the results.
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
